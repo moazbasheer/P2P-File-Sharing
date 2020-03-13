@@ -1,3 +1,0 @@
-100 user3
-12 user1
-13 user2
